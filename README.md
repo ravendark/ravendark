@@ -37,13 +37,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravendark)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/ravendarktv
 [youtube]: https://youtube.com/skeeler1128
 [instagram]: https://instagram.com/r4vendarktv/
 [linkedin]: https://www.linkedin.com/in/scott-a-keeler/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
