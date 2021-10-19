@@ -98,7 +98,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/ravendarktv
 [youtube]: https://youtube.com/skeeler1128
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/r4vendarktv/
 [linkedin]: https://www.linkedin.com/in/scott-a-keeler/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
