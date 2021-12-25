@@ -35,6 +35,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravendark)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/ravendarktv
-[youtube]: https://youtube.com/skeeler1128
-[instagram]: https://instagram.com/r4vendarktv/
 [linkedin]: https://www.linkedin.com/in/scott-a-keeler/
