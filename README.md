@@ -2,12 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ravendark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fravendarktv&screen_name=ravendarktv)
 
-## I'm currently preparing for a coding bootcamp in January of 2022.
+## Currently a warehouse laborer, but looking to make the switch to Software/Web Developer.
 
 - 🔭 I've always been drawn to technology!
 - 🌱 I love to learn, even if I might complain about it from time to time! 🤣
-- 👯 Currently living in the Pacific Northwest
-- 🥅 2022 Goals: Finish the bootcamp and find a job in the field by the end of the year(2022)
+- 👯 Southwest PA Native (think Pittsburgh) living in the Pacific Northwest.
+- 🥅 2022 Goals: Push through as much Freecodecamp Material as possible.
+  Progress through rosettastone's Arabic course.
 
 ### Connect with me:
 
