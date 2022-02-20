@@ -6,7 +6,7 @@
 
 - 🔭 I've always been drawn to technology!
 - 🌱 I love to learn, even if I might complain about it from time to time! 🤣
-- 👯 Southwest PA Native (think Pittsburgh) living in the Pacific Northwest.
+- 👯 Southwest PA Native (think Pittsburgh) living in the Pacific Northwest (think Seattle).
 - 🥅 2022 Goals: Push through as much Freecodecamp Material as possible.
   Progress through rosettastone's Arabic course.
 
