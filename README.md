@@ -31,6 +31,10 @@
 <br/>
 <br/>
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
   <summary>:zap: GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravendark)](https://github.com/anuraghazra/github-readme-stats)
