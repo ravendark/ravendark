@@ -33,6 +33,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [initial setup](https://dev.to/ravendark/initial-setup-47f)
 <!-- BLOG-POST-LIST:END -->
 
   <summary>:zap: GitHub Stats</summary>
