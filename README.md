@@ -1,4 +1,5 @@
-### Greetings, I'm Scott, but you might know me as Ravendark! 👋
+### Greetings, I'm Ravendark! 👋
+### Welcome to my little corner of the internet.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ravendark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fravendarktv&screen_name=ravendarktv)
 
@@ -7,9 +8,7 @@
 - 🔭 I've always been drawn to technology!
 - 🌱 I love to learn, even if I might complain about it from time to time! 🤣
 - 👯 Southwest PA Native (think Pittsburgh) living in the Pacific Northwest (think Seattle).
-- 🥅 2022 Goals: Push through as much Freecodecamp Material as possible.
-  Progress through rosettastone's Arabic course.
-
+- 🥅 2023 Goals: Start Degree program at WGU. I hope to start my courses March 1st, in a structured Software Engineer program.
 ### Connect with me:
 
 [<img align="left" alt="ravendarktv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
