@@ -12,7 +12,7 @@ I have to say though, I'm excited!
 - 👯 Southwest PA Native (think Pittsburgh) living in the Pacific Northwest (think Seattle).
 - 🥅 2023 Goals: Start Degree program at WGU. I hope to start my courses March 1st, in a structured Software Engineer program.
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="ravendarktv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Scott-A-Keeler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
