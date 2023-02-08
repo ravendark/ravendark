@@ -10,7 +10,7 @@ I have to say though, I'm excited!
 - 🔭 I've always been drawn to technology!
 - 🌱 I love to learn, even if I might complain about it from time to time! 🤣
 - 👯 Southwest PA Native (think Pittsburgh) living in the Pacific Northwest (think Seattle).
-- 🥅 2023 Goals: Start Degree program at WGU. I hope to start my courses March 1st, in a structured Software Engineer program.
+- 🥅 2023 Goals: Focus is on starting my degree program. Let's see how that goes first.
 
 ## Connect with me:
 
