@@ -35,6 +35,7 @@ I have to say though, I'm excited!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Back to School](https://dev.to/ravendark/back-to-school-64i)
 - [Little dusty &#39;round here!](https://dev.to/ravendark/little-dusty-round-here-3h99)
 - [initial setup](https://dev.to/ravendark/initial-setup-47f)
 <!-- BLOG-POST-LIST:END -->
