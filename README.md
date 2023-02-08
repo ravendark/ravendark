@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ravendark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fravendarktv&screen_name=ravendarktv)
 
-## After many years as Warehouse Labor, and noodling around with tech and software
-## I am starting my journey to retrain into Software Engineering.
-## It's going to take some time, it's been over 20 years since I was in school,
-## I have to say though, I'm excited!
+After many years as Warehouse Labor, and noodling around with tech and software
+I am starting my journey to retrain into Software Engineering.
+It's going to take some time, it's been over 20 years since I was in school,
+I have to say though, I'm excited!
 
 - 🔭 I've always been drawn to technology!
 - 🌱 I love to learn, even if I might complain about it from time to time! 🤣
