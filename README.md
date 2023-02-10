@@ -35,6 +35,7 @@ I have to say though, I'm excited!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cleared to Start!](http://ravendark.github.io/Cleared-to-Start/)
 - [Getting VS Code configured](http://ravendark.github.io/Getting-VS-Code-configured/)
 - [Up and Running!](http://ravendark.github.io/up-and-running/)
 - [Going back to school!](http://ravendark.github.io/back-to-school/)
