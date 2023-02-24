@@ -35,11 +35,11 @@ I have to say though, I'm excited!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Start Date Getting Closer](http://ravendark.github.io/2023-02-24-Getting-closer-to-start/)
 - [Cleared to Start!](http://ravendark.github.io/Cleared-to-Start/)
 - [Getting VS Code configured](http://ravendark.github.io/Getting-VS-Code-configured/)
 - [Up and Running!](http://ravendark.github.io/up-and-running/)
 - [Going back to school!](http://ravendark.github.io/back-to-school/)
-- [Is this thing on?](http://ravendark.github.io/Migrating-to-Jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
   <summary>:zap: GitHub Stats</summary>
