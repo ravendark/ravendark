@@ -35,7 +35,7 @@ I have to say though, I'm excited!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [General Update for Week 3 of New Job](http://ravendark.github.io/General-Updates/)
+- [General Updates](http://ravendark.github.io/General-Updates/)
 - [How Quickly Things Can Change!](http://ravendark.github.io/How-Quickly-Things-Change/)
 - [Start Date Getting Closer](http://ravendark.github.io/Getting-closer-to-start/)
 - [Cleared to Start!](http://ravendark.github.io/Cleared-to-Start/)
