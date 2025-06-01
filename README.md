@@ -35,11 +35,11 @@ I have to say though, I'm excited!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Time Flies](http://ravendark.github.io/Time-Flies/)
 - [General Updates](http://ravendark.github.io/General-Updates/)
 - [How Quickly Things Can Change!](http://ravendark.github.io/How-Quickly-Things-Change/)
 - [Start Date Getting Closer](http://ravendark.github.io/Getting-closer-to-start/)
 - [Cleared to Start!](http://ravendark.github.io/Cleared-to-Start/)
-- [Getting VS Code configured](http://ravendark.github.io/Getting-VS-Code-configured/)
 <!-- BLOG-POST-LIST:END -->
 
   <summary>:zap: GitHub Stats</summary>
